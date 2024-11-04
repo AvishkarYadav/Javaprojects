@@ -8,6 +8,7 @@ public class Test1 {
 		a.add("mangesh");
 		a.add("Akshay");
 		a.add("Vilas");
+		a.add("Himat");
 		System.out.println(a);
 	}
 }
